@@ -46,7 +46,7 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 </div>
 </div> -->
 
-- [1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://github.com), **Yanfang Liu**, Wei W. Xing
+- [1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://github.com), **Yanfang Liu**, Wei W. Xing
 
 - [2] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://github.com), **Yanfang Liu**, Lei He, Wei W. Xing
 
