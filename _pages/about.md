@@ -56,7 +56,9 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 
 - [5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://github.com), **Yanfang Liu**, Guohao Dai, Wei W. Xing
 
-- [6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://github.com), Wei W. Xing, **Yanfang Liu**, Weijian Fan, Lei He **CVPR 2020**
+- [6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://github.com), Wei W. Xing, **Yanfang Liu**, Weijian Fan, Lei He
+
+## Journal Paper 👇
 
 <!-- <div style="display: flex; align-items: center;">
   <div class="badge">CVPR 2016</div>
@@ -68,7 +70,7 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 </div> -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12* National Scholarship. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
