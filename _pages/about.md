@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🌟 About me
+# ✨ About me
 
 Yanfang Liu is currently a master's student at the School of Integrated Circuits Science and Engineering at Beihang University. Her research focuses on AI for EDA, rare event statistical modeling and analysis, and applications related to Bayesian optimization.
 
@@ -32,7 +32,9 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## Conference Paper 👇
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -42,9 +44,19 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">CVPR 2016</span> [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://github.com), **Yanfang Liu**, Wei W. Xing
+
+- <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://github.com), **Yanfang Liu**, Lei He, Wei W. Xing
+
+- <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2024</span> [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Wei W. Xing
+
+- <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2023</span> [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing
+
+- <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://github.com), **Yanfang Liu**, Guohao Dai, Wei W. Xing
+
+- <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://github.com), Wei W. Xing, **Yanfang Liu**, Weijian Fan, Lei He **CVPR 2020**
 
 <!-- <div style="display: flex; align-items: center;">
   <div class="badge">CVPR 2016</div>
