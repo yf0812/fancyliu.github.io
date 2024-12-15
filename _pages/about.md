@@ -44,9 +44,16 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 </div>
 </div>
 
-- <div class="badge">CVPR 2016</div> 
+<!-- - <div class="badge">CVPR 2016</div>[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div style="display: flex; align-items: center;">
+  <div class="badge">CVPR 2016</div>
+  <div>
+    <a href="https://github.com">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet
+    </a>, A, B, C, <strong>CVPR 2020</strong>
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
