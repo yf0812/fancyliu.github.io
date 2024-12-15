@@ -48,15 +48,15 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 
 - [1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://github.com), **Yanfang Liu**, Wei W. Xing
 
-- [2] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://github.com), **Yanfang Liu**, Lei He, Wei W. Xing
+- [2] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://github.com), **Yanfang Liu**, Lei He, Wei W. Xing
 
-- [3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2024</span> [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Wei W. Xing
+- [3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2024</span> [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Wei W. Xing
 
-- [4] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2023</span> [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing
+- [4] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2023</span> [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing
 
-- [5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://github.com), **Yanfang Liu**, Guohao Dai, Wei W. Xing
+- [5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://github.com), **Yanfang Liu**, Guohao Dai, Wei W. Xing
 
-- [6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 2px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://github.com), Wei W. Xing, **Yanfang Liu**, Weijian Fan, Lei He **CVPR 2020**
+- [6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://github.com), Wei W. Xing, **Yanfang Liu**, Weijian Fan, Lei He **CVPR 2020**
 
 <!-- <div style="display: flex; align-items: center;">
   <div class="badge">CVPR 2016</div>
