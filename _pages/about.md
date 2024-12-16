@@ -48,14 +48,14 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 
 - [1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://github.com), **Yanfang Liu**, Wei W. Xing
 
-<div style="margin-top: 10px;">
+<!-- <div style="margin-top: 10px;">
   <a href="https://example.com/article.pdf" style="text-decoration: none;">
     <button style="background-color: #4CAF50; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer;">PDF</button>
   </a>
   <a href="https://example.com/article.bib" style="text-decoration: none;">
     <button style="background-color:rgb(255, 155, 6); color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer;">Cite</button>
   </a>
-</div>
+</div> -->
 
 - [2] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://github.com), **Yanfang Liu**, Lei He, Wei W. Xing
 
@@ -79,8 +79,15 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 </div> -->
 
 # 🎖 Honors and Awards
-- *2023.12* National Scholarship. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10、2023.10、2020.10* National Scholarship. 
+- *2024.05* Huawei Scholarship.
+- *2024.11* Beijing Outstanding Graduate.
+- *2023.10* Outstanding Student of Shandong Province.
+- *2024.06* Top Ten Graduate Award (Highest Honor for Graduate Students at Beihang University).
+- *2024.04* Outstanding Graduate of Beihang University.
+- *2024.10、2023.10* Beihang University Merit Student.
+
+<!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
