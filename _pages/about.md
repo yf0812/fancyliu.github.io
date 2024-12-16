@@ -70,12 +70,12 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 One paper has been accepted by DATE 2025.
-- *2024.06*: &nbsp;🎉🎉 One paper has been accepted by ICCAD 2024.
-- *2024.02*: &nbsp;🎉🎉 One paper has been accepted by DAC 2024.
-- *2023.09*: &nbsp;🎉🎉 One paper has been accepted by ASP-DAC 2024.
-- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ICCAD 2023.
-- *2023.02*: &nbsp;🎉🎉 One paper has been accepted by DAC 2023.
+- *2024.11*: &nbsp;🎉🎉 One paper has been accepted by DATE 2025!
+- *2024.06*: &nbsp;🎉🎉 One paper has been accepted by ICCAD 2024!
+- *2024.02*: &nbsp;🎉🎉 One paper has been accepted by DAC 2024!
+- *2023.09*: &nbsp;🎉🎉 One paper has been accepted by ASP-DAC 2024!
+- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ICCAD 2023!
+- *2023.02*: &nbsp;🎉🎉 One paper has been accepted by DAC 2023!
 
 # 📝 Publications 
 
