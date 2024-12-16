@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/fancyliu.github.io/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/fancyliu.github.io/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/fancyliu.github.io/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/fancyliu.github.io/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/fancyliu.github.io/#-educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/fancyliu.github.io/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/fancyliu.github.io/#-internships"
