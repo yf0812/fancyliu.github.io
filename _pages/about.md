@@ -44,19 +44,19 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 
   <div style="display: flex; justify-content: space-between; margin-top: 20px;">
 
-  <div style="flex: 1; margin-right: 5px;">
-    <h3>📌 Research Interests</h3>
+  <div style="flex: 1; margin-right: 1px;">
+    <h2>🔮 Research Interests</h2>
     <ul>
       <li><strong>Artificial Intelligence</strong></li>
-      <li><strong>Electronic Design Automation</strong></li>
+      <li><strong>Electronic Design Automation (EDA)</strong></li>
       <li><strong>Rare Event Analysis</strong></li>
     </ul>
   </div>
 
-  <div style="flex: 1; margin-left: 5px;">
-    <h3>🎓 Education</h3>
+  <div style="flex: 1; margin-left: 1px;">
+    <h2>🎓 Education</h2>
     <ul>
-      <li><strong>PhD Artificial Intelligence</strong><br><em>Stanford University</em></li>
+      <li><strong>PhD Artificial Intelligence</strong><br><em>The Chinese University of Hong Kong</em></li>
       <li><strong>MEng Electronic Information</strong><br><em>Beihang University</em></li>
       <li><strong>BSc Artificial Intelligence</strong><br><em>University of Jinan</em></li>
     </ul>
