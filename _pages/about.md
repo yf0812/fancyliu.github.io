@@ -29,7 +29,7 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
   </a>
 </div>
 
-## Interests  
+<!-- ## Interests  
 - **Artificial Intelligence**  
 - **Electronic Design Automation**  
 - **Rare Event Analysis**  
@@ -40,7 +40,29 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 - **MEng Electronic Information**  
   *Beihang University*  
 - **BSc Artificial Intelligence**  
-  *University of Jinan*
+  *University of Jinan* -->
+
+  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+
+  <div style="flex: 1; margin-right: 10px;">
+    <h3>Interests</h3>
+    <ul>
+      <li><strong>Artificial Intelligence</strong></li>
+      <li><strong>Electronic Design Automation</strong></li>
+      <li><strong>Rare Event Analysis</strong></li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; margin-left: 10px;">
+    <h3>Education</h3>
+    <ul>
+      <li><strong>PhD Artificial Intelligence</strong><br><em>Stanford University</em></li>
+      <li><strong>MEng Electronic Information</strong><br><em>Beihang University</em></li>
+      <li><strong>BSc Artificial Intelligence</strong><br><em>University of Jinan</em></li>
+    </ul>
+  </div>
+
+</div>
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
