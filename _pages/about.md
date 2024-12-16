@@ -58,7 +58,7 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
     <ul>
       <li><strong>PhD Artificial Intelligence</strong><br><em>The Chinese University of Hong Kong</em></li>
       <li><strong>MEng Electronic Information</strong><br><em>Beihang University</em></li>
-      <li><strong>BSc Artificial Intelligence</strong><br><em>University of Jinan</em></li>
+      <li><strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em></li>
     </ul>
   </div>
 
