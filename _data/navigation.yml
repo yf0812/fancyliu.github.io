@@ -12,8 +12,8 @@ main:
   - title: "Honors and Awards"
     url: "/fancyliu.github.io/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/fancyliu.github.io/#-educations"
+  # - title: "Educations"
+  #   url: "/fancyliu.github.io/#-educations"
 
   - title: "Invited Talks"
     url: "/fancyliu.github.io/#-invited-talks"
