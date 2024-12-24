@@ -113,6 +113,11 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
   </a>
+  <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
+    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
+      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Code</button>
+  </a>
 </div>
 
 <!-- <div style="margin-top: 10px;">
