@@ -103,20 +103,20 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
-  <a href="your-citation-link.bib" style="text-decoration: none;">
+  <!-- <a href="your-citation-link.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
-  </a>
-  <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
+  </a> -->
+  <!-- <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
-  </a>
+  </a> -->
   <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Code</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
   </a>
 </div>
 
@@ -141,11 +141,11 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
   </a>
-  <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
+  <!-- <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
-  </a>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
+  </a> -->
 </div>
 
 - [3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2024</span> [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Wei W. Xing
@@ -160,11 +160,11 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
   </a>
-  <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
+  <!-- <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
-  </a>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
+  </a> -->
 </div>
 
 - [4] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2023</span> <span style="color:red;">(Best Paper Nomination)</span> [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing
@@ -182,7 +182,7 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
   <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
   </a>
 </div>
 
@@ -201,7 +201,7 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
   <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
   </a>
 </div>
 
@@ -220,7 +220,7 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
   <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
   </a>
 </div>
 
