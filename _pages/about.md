@@ -136,7 +136,7 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
-  <a href="your-citation-link.bib" style="text-decoration: none;">
+  <a href="_pages/paper/ICCAD2024.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
@@ -148,14 +148,14 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
   </a> -->
 </div>
 
-- [3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2024</span> [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Wei W. Xing
+- [3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2024</span> [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10473819), **Yanfang Liu**, Wei W. Xing
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ASP-DAC2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
-  <a href="your-citation-link.bib" style="text-decoration: none;">
+  <a href="_pages/paper/ASP-DAC2024.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
@@ -167,14 +167,14 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
   </a> -->
 </div>
 
-- [4] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2023</span> <span style="color:red;">(Best Paper Nomination)</span> [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://github.com), **Yanfang Liu**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing
+- [4] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2023</span> <span style="color:red;">(Best Paper Nomination)</span> [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10323689), **Yanfang Liu**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ICCAD2023.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
-  <a href="your-citation-link.bib" style="text-decoration: none;">
+  <a href="_pages/paper/ICCAD2023.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
@@ -186,14 +186,14 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
   </a>
 </div>
 
-- [5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://github.com), **Yanfang Liu**, Guohao Dai, Wei W. Xing
+- [5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), **Yanfang Liu**, Guohao Dai, Wei W. Xing
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DAC2023.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
-  <a href="your-citation-link.bib" style="text-decoration: none;">
+  <a href="_pages/paper/DAC2023.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
@@ -205,14 +205,14 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
   </a>
 </div>
 
-- [6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://github.com), Wei W. Xing, **Yanfang Liu**, Weijian Fan, Lei He
+- [6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), Wei W. Xing, **Yanfang Liu**, Weijian Fan, Lei He
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DAC2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
-  <a href="your-citation-link.bib" style="text-decoration: none;">
+  <a href="_pages/paper/DAC2024.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
