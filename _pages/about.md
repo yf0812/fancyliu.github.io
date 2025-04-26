@@ -129,7 +129,7 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
   </a>
 </div> -->
 
-- [2] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://github.com), **Yanfang Liu**, Lei He, Wei W. Xing
+- [2] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://dl.acm.org/doi/abs/10.1145/3676536.3676672), **Yanfang Liu**, Lei He, Wei W. Xing
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ICCAD2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
