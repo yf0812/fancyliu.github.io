@@ -237,15 +237,20 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship (Master). 
+- *2023.10* National Scholarship (Master) (Top 1%). 
+- *2020.10* National Scholarship (Undergraduate) (Top 1%). 
+- *2024.11* Outstanding Master's Thesis Award.
 - *2024.11* Beijing Outstanding Graduate.
 - *2024.06* Top Ten Graduate Award (Highest Honor for Graduate Students at Beihang University).
 <!-- - *2024.04* Outstanding Graduate of Beihang University. -->
 <!-- - *2024.10* Beihang University Merit Student. -->
 - *2024.05* Huawei Scholarship.
-- *2023.10* National Scholarship (Master) (Top 1%). 
+- *2024.11* Outstanding Master's Thesis Award.
+<!-- - *2023.10* National Scholarship (Master) (Top 1%).  -->
 <!-- - *2023.10* Beihang University Merit Student. -->
+- *2022.06* Outstanding Bachelor's Thesis Award.
 - *2020.12* Outstanding Student of Shandong Province.
-- *2020.10* National Scholarship (Undergraduate) (Top 1%). 
+<!-- - *2020.10* National Scholarship (Undergraduate) (Top 1%).  -->
 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -258,4 +263,4 @@ Yanfang Liu is currently a master's student at the School of Integrated Circuits
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.02 - 2025.07*, The Chinese University of Hong Kong (Shenzhen), China.
